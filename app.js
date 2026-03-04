@@ -1345,8 +1345,8 @@
         endDate,
         status,
         notes,
-        subtasks: [],
-        dependencies: []
+        subtasks: tempSubtasks,
+        dependencies: tempDependencies
       });
     }
     saveState();
