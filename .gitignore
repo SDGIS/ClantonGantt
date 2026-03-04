@@ -1,14 +1,1 @@
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Editor files
-*.swp
-*.swo
-*~
-.vscode/
-.idea/
-
-# Claude Code
-.claude/
+.netlify/
